@@ -17,13 +17,16 @@
 
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/streamlit/app-starter-kit?quickstart=1)
 
-## Section Heading
+## 🚀 Tech Stack
 
-This is filler text, please replace this with text for this section.
+🔹 Machine Learning: Collaborative Filtering, Content-Based, Deep Learning (Transformers, Embeddings)
+🔹 Backend: Python (FastAPI/Flask)
+🔹 UI: Streamlit
+🔹 Database: PostgreSQL, Redis (for caching), Neo4j (for graph-based recommendations)
+🔹 Deployment: Docker, AWS/GCP
 
-## Further Reading
+## 📌 Future Enhancements
 
-This is filler text, please replace this with a explanatory text about further relevant resources for this repo
-- Resource 1
-- Resource 2
-- Resource 3
+🚀 Social features – Follow users, share playlists
+🚀 Voice search & assistant integration
+🚀 Multi-language support
