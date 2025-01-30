@@ -1,5 +1,5 @@
 import streamlit as st
 
-st.title('🎈 App Name')
+st.title('DeepEchoAI 🎧')
 
-st.write('Hello world!')
+st.info('Personalized Music, Podcast & Audiobook Recommender System')
