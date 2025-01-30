@@ -1,13 +1,17 @@
-# 📦 Streamlit App Starter Kit 
-```
-⬆️ (Replace above with your app's name)
-```
+# DeepEchoAI 🎧 – Personalized Music, Podcast & Audiobook Recommender System
 
-Description of the app ...
+🔹 Features
+✅ Multi-Category Recommendations – Get tailored suggestions across music, podcasts, and audiobooks.
+✅ Hybrid AI Model – Uses collaborative filtering, content-based filtering, and deep learning to enhance recommendations.
+✅ Personalized Playlists – Auto-generate playlists based on mood, genre, and past listening behavior.
+✅ Smart Podcast & Audiobook Chapters – Recommend specific chapters or timestamps of interest.
+✅ Real-Time Adaptive Suggestions – Updates recommendations dynamically based on recent interactions.
+✅ Cross-Domain Insights – Connects user interests across music, podcasts, and audiobooks.
+✅ Explainable AI – Shows why a particular recommendation was made.
 
 ## Demo App
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://app-starter-kit.streamlit.app/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://DeepEchoAI.streamlit.app/)
 
 ## GitHub Codespaces
 
